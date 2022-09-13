@@ -15,6 +15,10 @@ Install the library using pip
 ```sh
 $ pip install paynow
 ```
+or fix
+```
+$ pip install https://github.com/malvernbright/paynow_fix/archive/refs/heads/main.zip
+```
 
 and import the Paynow class into your project
 
